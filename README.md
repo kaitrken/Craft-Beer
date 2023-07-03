@@ -8,8 +8,11 @@ spend more on imported beer, further suggestions are made to conduct a cost anal
 
 # Data
 Data for the project was gathered from [here](https://www.kaggle.com/datasets/podsyp/sales-in-craft-beer-bar?select=Product_range.csv)
+
 Geospatial file is in the file '02 Data'
-Storyboard presentation can be found [here](https://public.tableau.com/app/profile/kaitlin.kendrick/viz/CraftBeer_16883460928380/CraftBeer)
+
+Storyboard presentation can be found [here](https://public.tableau.com/app/profile/kaitlin.kendrick/viz/CraftBeer_16883460928380/CraftBeer).
+Note that this presentation does not include all analysis, only results that are relevent to the scope of the hypothesis. 
 
 # Tools
 The project used Excel and Python. Libraries used were: 
